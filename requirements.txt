@@ -1,0 +1,7 @@
+flask
+pymongo
+werkzeug
+groq
+easyocr
+PyPDF2
+pillow
